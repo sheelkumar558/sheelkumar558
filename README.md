@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **sheelkumar558@gmail.com**
 
-<h3 align="left">Connect with me: 6388801271</h3>
 <p align="left">
 </p>
 
