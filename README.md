@@ -1,33 +1,67 @@
+ <h2> Hey there! 👋 I'm Sheel Kumar.</h2>
+ <br/>
 
-<h1 align="center">Hi 👋, I'm Sheelkumar</h1>
-<h3 align="center">A passionate full Stack web developer from India</h3>
+ <div><img align="right" alt="Github" width="400px" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" /></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheelkumar558&label=Profile%20views&color=0e75b6&style=flat" alt="sheelkumar558" /> </p>
+<h3> &nbsp;About Me </h3>  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheelkumar558" alt="sheelkumar558" /></a> </p>
+- 🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
+- 🎓 &nbsp; Learning Web Development at masai school
+- 💼 &nbsp; Aspire to work as a MERN Stack developer.
+- 🌱 &nbsp; Currently learning React.
+- 👯‍♂️ &nbsp;&nbsp;Looking for Contributing to MERN stack projects with lots of learning and experience. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Happy to Contribute in Opne source Projects<br>
+- 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to help, if <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am unable then surely we will together towards learning new things.
+<br/>
+- ⚡ Fun fact: Passion for coding, enjoy listening musix and reading books.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+<!--   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) -->
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=ExpressJS)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-236799?style=flat&logo=redux)
+
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<!--   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logocolor=&logo=atom) -->
+<br/>
+ <div>
+<h3>⚙️ GitHub Analytics</h3>
+<a href="https://github.com/sheelkumar558">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheelkumar558&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheelkumar558&theme=buefy&layout=compact" />
+</a>
+ </div>
+ <br/>
+   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-- 🔭 I’m currently working on [Responsive React Tic tac toe app](F)
+<br/>
+<br/>
+<img alt="Sheel kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sheelkumar558&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
-- 🌱 I’m currently learning **Html, Css, JavaScript, Nodejs, Express, Mongodb, React-Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sheelkumar558](https://github.com/sheelkumar558)
+<h3>&nbsp;Visit my portfolio </h3>
+&nbsp;&nbsp;<a href="###" target="blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
 
-- 💬 Ask me about **Html, Css, JavaScript, Nodejs, Express**
-
-- 📫 How to reach me **sheelkumar558@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sheel-kumar-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheelkumar558" height="30" width="40" /></a>
+<h3>&nbsp;Connect with Me </h3>
+<p align="center">
+<a href="www.linkedin.com/in/sheel-kumar-profile/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sheel%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:sheelkumar558@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Sheel%20Kumar-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+#### &nbsp;&nbsp; Thank you for visiting my profile.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheelkumar558&show_icons=true&locale=en&layout=compact" alt="sheelkumar558" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheelkumar558&show_icons=true&locale=en" alt="sheelkumar558" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheelkumar558&" alt="sheelkumar558" /></p>
+⭐️ From [Sheel Kumar](https://github.com/sheelkumar558)
 
