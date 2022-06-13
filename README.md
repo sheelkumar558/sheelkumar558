@@ -1,7 +1,7 @@
  <h2> Hey there! 👋 I'm Sheel Kumar.</h2>
  <br/>
 
- <div><img align="right" alt="Github" width="200px" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" /></div>
+ <div><img align="right" alt="Github" width="50px" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" /></div>
 
 <h3> &nbsp;About Me </h3>  
 
