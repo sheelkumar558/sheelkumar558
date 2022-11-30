@@ -14,7 +14,7 @@
 <br/>
 - ⚡ Fun fact: Passion for coding, enjoy listening musix and reading books.
 
-<h3> 🛠 &nbsp;Skill</h3>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 <div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -37,11 +37,21 @@
 <!--   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logocolor=&logo=atom) -->
 <br/>
  <div>
-<h3>⚙️ GitHub Analytics</h3>
-<a href="https://github.com/sheelkumar558">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheelkumar558&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheelkumar558&theme=buefy&layout=compact" />
-</a>
+
+  <h2><i>⚙️ My GitHub Status</i></h2>
+ 
+<p display="flex" align="center">
+<img alt="sheelu's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheelkumar558&hide=smalltalk&theme=algolia&layout=compact" width="400" />
+
+
+
+  <a href="https://github.com/APURVA-DIVAKAR?tab=repositories">
+    <img width="400" height="auto"  alt="Jitesh's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=sheelkumar558&show_icons=true&theme=algolia&count_private=true" />
+  </a>
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheelkumar558&hide=smalltalk&theme=algolia&layout=compact" alt="sheelkumar" />
+</p>
  </div>
  <br/>
    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
