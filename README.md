@@ -9,8 +9,10 @@
 - 🎓 &nbsp; Learning Web Development at masai school
 - 💼 &nbsp; Aspire to work as a MERN Stack developer.
 - 🌱 &nbsp; Currently learning NextJS.
-- 👯‍♂️ &nbsp;&nbsp;Looking for Contributing to MERN stack projects with lots of learning and experience. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Happy to Contribute in Opne source Projects<br>
-- 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to help, if <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am unable then surely we will together towards learning new things.
+- 👯‍♂️ &nbsp;&nbsp;Looking for Contributing to MERN stack projects with lots of learning and experience. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+-  Happy to Contribute in Opne source Projects<br>
+- 💬 &nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to help, if <br/>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am unable then surely we will together towards learning new things.
 <br/>
 - ⚡ Fun fact: Passion for coding, enjoy listening musix and reading books.
 
@@ -54,7 +56,7 @@
 </p>
  </div>
  <br/>
-   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!--    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 
 <br/>
