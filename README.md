@@ -69,7 +69,7 @@
 
 <h3>&nbsp;Connect with Me </h3>
 <p align="center">
-<a href="sheelkumar558@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Sheel%20Kumar-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:sheelkumar558@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-Sheel%20Kumar-blue?style=flat-square&logo=gmail"></a>
 <a href="www.linkedin.com/in/sheel-kumar-profile/" target=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sheel%20Kumar-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
