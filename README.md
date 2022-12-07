@@ -61,7 +61,7 @@
 
 <br/>
 <br/>
-<img alt="Sheel kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sheelkumar558&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
 
 
 <h3>&nbsp;Visit my portfolio </h3>
