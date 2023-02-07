@@ -8,7 +8,7 @@
 - 🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
 - 🎓 &nbsp; Learning Web Development at masai school
 - 💼 &nbsp; Aspire to work as a MERN Stack developer.
-- 🌱 &nbsp; Currently learning NextJS.
+- 🌱 &nbsp; Currently learning core java.
 - 👯‍♂️ &nbsp;&nbsp;Looking for Contributing to MERN stack projects with lots of learning and experience. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 -  Happy to Contribute in Opne source Projects<br>
 - 💬 &nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to help, if <br/>
