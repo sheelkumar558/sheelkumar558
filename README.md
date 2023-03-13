@@ -1,4 +1,4 @@
- <h2> नमस्ते... 👋 I'm Sheel Kumar (Sheelu).</h2>
+ <h2> नमस्ते... 👋 I'm SheelKumar (Sheelu).</h2>
  <br/>
 
  <div><img align="right" hight="200px" alt="Github" width="500px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" /></div>
